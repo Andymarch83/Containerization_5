@@ -80,3 +80,14 @@ PMA_HOST: Указывает на имя хоста MySQL сервера, к к�
 volumes: В этой секции описываются тома, которые будут использованы. В данном случае, это mysql_data для MySQL.
 
 Этот файл делает то же, что и команды docker run, но в более удобном и управляемом формате.
+
+
+![Home5](https://github.com/Andymarch83/Containerization_5/assets/122732408/8505e71f-c256-46d4-93c3-4744ddb735bb)
+
+![Home5 1](https://github.com/Andymarch83/Containerization_5/assets/122732408/b72fc68f-243a-4f9a-82cf-95d39d4a05da)
+
+![Home5 1 2](https://github.com/Andymarch83/Containerization_5/assets/122732408/e3db8f4c-93a0-45fe-a566-7f940f6e4cdd)
+
+![Home5 2](https://github.com/Andymarch83/Containerization_5/assets/122732408/76f933b6-4b37-4731-a339-d9c3dc8000a7)
+
+
